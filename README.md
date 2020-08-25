@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am passionate about writing and testing my code, learning new things, and teaching others. I enjoy understanding problems, finding solutions and simplify the process. I enjoy contributing to my technical blog. https://mspwrites.com/blog
 <!--
 **mohitsparihar/mohitsparihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
