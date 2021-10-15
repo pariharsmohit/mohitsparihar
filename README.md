@@ -4,7 +4,7 @@ I am passionate about writing and testing my code, learning new things, and teac
 
 Skills : OOJS | React | HTML | CSS
 
-Certificates : [freeCodeCamp JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/mohitsparihar/javascript-algorithms-and-data-structures)
+Certificates : [freeCodeCamp JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/mohitsparihar/javascript-algorithms-and-data-structures),
 [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/mohitsparihar/responsive-web-design)
 <!--
 **mohitsparihar/mohitsparihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
