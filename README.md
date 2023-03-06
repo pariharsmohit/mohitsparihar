@@ -1,22 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m Mohit Singh Parihar.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning ReactJS.
+- 📫 How to reach me :-https://www.linkedin.com/in/mohitsparihar/,mohitsinghparihar@gmail.com
 
-I am passionate about writing and testing my code, learning new things, and teaching others. I enjoy understanding problems, finding solutions and simplify the process. I enjoy contributing to my technical blog. https://mspwrites.com/blog
-
-Skills : OOJS | React | HTML | CSS
-
-Certificates : [freeCodeCamp JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/mohitsparihar/javascript-algorithms-and-data-structures),
-[freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/mohitsparihar/responsive-web-design)
-<!--
-**mohitsparihar/mohitsparihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+mohitsinghp/mohitsinghp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
